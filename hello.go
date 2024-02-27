@@ -6,6 +6,7 @@ import (
 )
 
 func main(){
-	fmt.Println(time.Now())
-	//test
+	numbers := []float32{5,7,9,63,2,5}
+
+	
 }
